@@ -1,0 +1,7 @@
+impact,Method
+climate change,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'climate change', 'global warming potential (GWP100)')"
+material resources,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'material resources: metals/minerals', 'abiotic depletion potential (ADP): elements (ultimate reserves)')"
+energy resource,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'energy resources: non-renewable', 'abiotic depletion potential (ADP): fossil fuels')"
+water use,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'water use', 'user deprivation potential (deprivation-weighted water consumption)')"
+eutrophication: freshwater,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'eutrophication: freshwater', 'fraction of nutrients reaching freshwater end compartment (P)')"
+ecotoxicity: freshwater,"('ecoinvent-3.9.1', 'EF v3.1 EN15804', 'ecotoxicity: freshwater', 'comparative toxic unit for ecosystems (CTUe)')"

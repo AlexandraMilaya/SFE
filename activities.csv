@@ -1,0 +1,6 @@
+variable,unit,location,activity_id
+acier_prefini,kilogram,RER,206853134430044160
+acier_lamine,kilogram,RER,206853083444084737
+fab_pieces,hour,RER,206853189195071488
+construction,hour,GLO,206853116566503424
+desinstallation_pieux,,,
